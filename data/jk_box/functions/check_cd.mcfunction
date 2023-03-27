@@ -1,0 +1,2 @@
+execute as @s[scores={jk_box.int=..0}] run function jk_box:ray/summon
+title @s[scores={jk_box.int=1..}] actionbar [{"text":"等待 ","color":"green"},{"score":{"name":"@s","objective":"jk_box.int"},"color":"yellow"},{"text":" 刻冷却后再来搬箱吧！","color":"green"}]
