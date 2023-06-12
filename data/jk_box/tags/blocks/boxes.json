@@ -8,6 +8,8 @@
         "hopper",
         "furnace",
         "smoker",
-        "blast_furnace"
+        "blast_furnace",
+        "brewing_stand",
+        "chiseled_bookshelf"
     ]
 }
