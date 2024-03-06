@@ -5,4 +5,3 @@ execute unless score #lang jk_box.int matches 1 unless score #particle jk_box.in
 execute unless score #lang jk_box.int matches 1 if score #particle jk_box.int matches 1 run tellraw @a {"text":"搬箱射线已关闭","color":"red"}
 execute if score #lang jk_box.int matches 1 unless score #particle jk_box.int matches 1 run tellraw @a {"text":"BoxMover-ray is on","color":"green"}
 execute if score #lang jk_box.int matches 1 if score #particle jk_box.int matches 1 run tellraw @a {"text":"BoxMover-ray is off","color":"red"}
-playsound block.note_block.bell player @s
