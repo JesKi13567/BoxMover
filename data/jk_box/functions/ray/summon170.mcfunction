@@ -1,1 +1,0 @@
-summon marker ^ ^ ^ {Tags: ["jk_box.ray", "jk_box.ray_new"]}

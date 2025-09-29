@@ -1,1 +1,0 @@
-execute if block ~ ~ ~ decorated_pot run function jk_box:ray/store_box203
