@@ -1,6 +1,5 @@
 # 在容器方块位置，执行实体为掉落物
 data modify entity @s Item.id set from block ~ ~ ~ id
-data modify entity @s Item.components.minecraft:custom_name set from block ~ ~ ~ CustomName
 # 区分
 execute unless block ~ ~ ~ decorated_pot run function jkbm:ray/containers/global
 execute if block ~ ~ ~ decorated_pot run function jkbm:ray/containers/decorated_pot

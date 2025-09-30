@@ -30,5 +30,8 @@ function jkbm:ray/containers/_n {n: 25}
 function jkbm:ray/containers/_n {n: 26}
 # 容器物品
 data modify entity @s Item.components.minecraft:container set from storage jk:bm box.x
+# 名字
+data modify entity @s Item.components.minecraft:custom_name set from block ~ ~ ~ CustomName
 # 特判
 execute if block ~ ~ ~ brewing_stand run function jkbm:ray/containers/brewing_stand
+execute if block ~ ~ ~ #jkbm:furnace run function jkbm:ray/containers/furnace

@@ -6,9 +6,7 @@
         "dispenser",
         "dropper",
         "hopper",
-        "furnace",
-        "smoker",
-        "blast_furnace",
+        "#jkbm:furnace",
         "brewing_stand",
         "chiseled_bookshelf",
         "decorated_pot"
