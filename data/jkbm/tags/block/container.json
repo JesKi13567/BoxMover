@@ -10,6 +10,7 @@
         "brewing_stand",
         "chiseled_bookshelf",
         "decorated_pot",
-        "crafter"
+        "crafter",
+        "#copper_chests"
     ]
 }

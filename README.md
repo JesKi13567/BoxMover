@@ -1,9 +1,9 @@
 # BoxMover
-## v1.2.1 For MC1.21.0-8
+## v1.2.1 For MC1.21.9
 ### 简体中文
 本数据包是为了方便玩家搬运「容器」而设计，「容器」指的是原版 MC 中的以下 **[方块实体](https://zh.minecraft.wiki/w/方块实体)**：
 
-箱子、陷阱箱、木桶、熔炉、高炉、烟熏炉、漏斗、发射器、投掷器、酿造台、雕纹书架、饰纹陶罐和合成器。
+箱子、陷阱箱、木桶、熔炉、高炉、烟熏炉、漏斗、发射器、投掷器、酿造台、雕纹书架、饰纹陶罐、合成器和各种铜箱子。
 
 #### 注意事项
 
@@ -15,7 +15,7 @@
 
 This datapack is designed for players moving their "containers", which means the following **[Block Entities](https://minecraft.wiki/w/Block_entity)**:
 
-Chest, trapped chest, barrel, furnace, blast furnace, smoker, hopper, dispenser, dropper, brewing stand, chiseled bookshelf, decorated pot and crafter.
+Chest, trapped chest, barrel, furnace, blast furnace, smoker, hopper, dispenser, dropper, brewing stand, chiseled bookshelf, decorated pot, crafter and all kinds of copper chests.
 
 #### Tips
 

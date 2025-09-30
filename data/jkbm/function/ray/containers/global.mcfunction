@@ -35,3 +35,4 @@ data modify entity @s Item.components.minecraft:custom_name set from block ~ ~ ~
 # 特判
 execute if block ~ ~ ~ brewing_stand run function jkbm:ray/containers/brewing_stand
 execute if block ~ ~ ~ #jkbm:furnace run function jkbm:ray/containers/furnace
+execute if block ~ ~ ~ #copper_chests run function jkbm:ray/containers/copper_chests

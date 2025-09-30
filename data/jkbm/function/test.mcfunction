@@ -16,4 +16,12 @@ give @s brewing_stand
 give @s chiseled_bookshelf
 give @s decorated_pot
 give @s crafter
+give @s copper_chest
+give @s exposed_copper_chest
+give @s weathered_copper_chest
+give @s oxidized_copper_chest
+give @s waxed_copper_chest
+give @s waxed_exposed_copper_chest
+give @s waxed_weathered_copper_chest
+give @s waxed_oxidized_copper_chest
 give @s anvil
