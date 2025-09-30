@@ -9,6 +9,7 @@
         "#jkbm:furnace",
         "brewing_stand",
         "chiseled_bookshelf",
-        "decorated_pot"
+        "decorated_pot",
+        "crafter"
     ]
 }

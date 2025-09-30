@@ -15,4 +15,5 @@ give @s blast_furnace
 give @s brewing_stand
 give @s chiseled_bookshelf
 give @s decorated_pot
+give @s crafter
 give @s anvil
