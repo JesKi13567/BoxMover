@@ -1,14 +1,14 @@
 {
   "pack": {
     "min_format": 88,
-    "max_format": 88,
+    "max_format": 94,
     "description": [
       "",
       {
         "text": "搬箱器 | BoxMover",
         "color": "green"
       },
-      "\nby ",
+      "\nBy ",
       {
         "text": "JK137",
         "color": "aqua"
