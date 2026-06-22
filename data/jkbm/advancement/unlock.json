@@ -1,0 +1,12 @@
+{
+  "criteria": {
+    "jkbm": {
+      "trigger": "location"
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "jkbm:jkbm"
+    ]
+  }
+}

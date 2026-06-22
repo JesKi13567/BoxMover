@@ -1,4 +1,2 @@
-# 玩家 int -> CD
-scoreboard players remove @a[scores={jkbm.int=1..}] jkbm.int 1
-# 射线 int -> 距离
-execute as @e[tag=jkbm.ray, tag=!jkbm.ray_new] at @s run function jkbm:ray/move
+# 检查玩家
+execute as @a[gamemode=!spectator] if items entity @s weapon.* paper[custom_data={jkbm: ["this"]}] if predicate jkbm:is_sneaking at @s positioned ~ ~-.01 ~ if block ~ ~ ~ #jkbm:all run function jkbm:step/0

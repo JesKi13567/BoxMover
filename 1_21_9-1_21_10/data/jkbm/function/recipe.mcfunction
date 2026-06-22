@@ -1,0 +1,1 @@
+tellraw @a ["", {text: "[", color: "gold"}, {storage: "jk:bm", nbt: "txt.jkbm", interpret: true, color: "gold"}, {text: "]", color: "gold"}, "\n", {sprite: "item/iron_ingot"}, "+", {sprite: "item/gold_ingot"}, "+", {sprite: "item/diamond"}, " ", {sprite: "block/crafting_table_front"}, " ", {sprite: "item/paper"}]

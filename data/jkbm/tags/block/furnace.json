@@ -1,7 +1,7 @@
 {
-    "values": [
-        "furnace",
-        "smoker",
-        "blast_furnace"
-    ]
+  "values": [
+    "blast_furnace",
+    "furnace",
+    "smoker"
+  ]
 }

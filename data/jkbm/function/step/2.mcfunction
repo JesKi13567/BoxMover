@@ -1,4 +1,4 @@
-# 不存在直接跳过
+## 执行实体：掉落物，位置：不变
 $execute unless data block ~ ~ ~ Items[$(n)] run return 0
 
 # 重新组合（方块实体跟掉落物数据储存方式不一）

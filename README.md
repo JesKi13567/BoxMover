@@ -1,27 +1,33 @@
-# BoxMover
-## v1.2.3 For MC1.21.9-26.1
-### 简体中文
-本数据包是为了方便玩家搬运「容器」而设计，「容器」指的是原版 MC 中的以下 **[方块实体](https://zh.minecraft.wiki/w/方块实体)**：
+# BoxMover -- 搬箱器
+## v1.3 for MC1.21.9-26.2.x
+- [简体中文](#zh_cn)
+- [English](#en_us)
 
-箱子、陷阱箱、木桶、熔炉、高炉、烟熏炉、漏斗、发射器、投掷器、酿造台、雕纹书架、饰纹陶罐、合成器和各种铜箱子。
+## zh_cn
+本数据包是为了方便玩家搬运以下「容器」而设计：
 
-#### 注意事项
-1. 合成方式：在合成栏/工作台中使用 `铁锭 + 金锭 + 钻石` 来合成。
+- 箱子、木桶、熔炉、漏斗、发射器、投掷器、合成器、酿造台、展示架、雕纹书架、饰纹陶罐。
+
+### 注意事项
+1. 获取方式：`铁锭 + 金锭 + 钻石`进行合成。
+
+1. 使用方法：手持搬箱器 + 潜行在目标容器上 = 打包。
 
 1. 由于 bug [MC-48453](https://bugs.mojang.com/browse/MC/issues/MC-48453)，部分打包容器不会显示有变化的材质。
 - 如熔炉的火焰，雕纹书架的书等。
 
-### English
-This datapack is designed for players moving their "containers", which means the following **[Block Entities](https://minecraft.wiki/w/Block_entity)**:
+## en_us
+This datapack is designed to allow players to move the following "containers":
 
-Chest, trapped chest, barrel, furnace, blast furnace, smoker, hopper, dispenser, dropper, brewing stand, chiseled bookshelf, decorated pot, crafter and all kinds of copper chests.
+- (Normal | Trapped | Copper) Chest, Barrel, (Normal | Blast | Smoker) Furnace, Hopper, Dispenser, Dropper, Crafter, Brewing Stand, Shelf, Chiseled Bookshelf, Decorated Pot.
 
-#### Tips
-1. How to craft: In crafting slots/table using `iron ingot + gold ingot + diamond` to craft.
+### Tips
+1. How to get: Craft it using `iron ingot + gold ingot + diamond`.
 
-1. Because of bug [MC-48453](https://bugs.mojang.com/browse/MC/issues/MC-48453), some packed containers won't show their changed texture.
-- e.g. Flame from furnace, books from chiseled bookshelf.
+1. How to use: Hold the Box Mover + sneak while on the target container = pack it.
 
+1. Due to bug [MC-48453](https://bugs.mojang.com/browse/MC/issues/MC-48453), some packed containers won't display their updated textures.
+- e.g., the fire animation in a furnace, or the books in a chiseled bookshelf.
+
+## By JK137
 https://github.com/JesKi13567/BoxMover
-
-By JK137

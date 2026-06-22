@@ -1,7 +1,7 @@
 {
   "pack": {
     "min_format": 88,
-    "max_format": 101,
+    "max_format": 999,
     "description": [
       "",
       {
@@ -12,6 +12,20 @@
       {
         "text": "JK137",
         "color": "aqua"
+      }
+    ]
+  },
+  "overlays": {
+    "entries": [
+      {
+        "directory": "1_21_9-1_21_10",
+        "min_format": 88,
+        "max_format": 88
+      },
+      {
+        "directory": "26_2",
+        "min_format": 107,
+        "max_format": 999
       }
     ]
   }
