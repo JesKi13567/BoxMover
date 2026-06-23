@@ -32,4 +32,3 @@ data modify entity @s Item.components."minecraft:container" set from storage jk:
 
 execute if block ~ ~ ~ #jkbm:furnace run function jkbm:step/type/furnace
 execute if block ~ ~ ~ brewing_stand run function jkbm:step/type/brewing_stand
-execute if block ~ ~ ~ crafter run function jkbm:step/type/crafter
