@@ -1,0 +1,2 @@
+execute if data block ~ ~ ~ lock run return run tellraw @s [{text: "[", color: "gold"}, {storage: "jk:bm", nbt: "txt.jkbm", interpret: true, color: "gold"}, {text: "] ", color: "gold"}, {storage: "jk:bm", nbt: "txt.tellraw.no_pack.lock", interpret: true, color: "yellow"}]
+execute if data block ~ ~ ~ LootTable run return run tellraw @s [{text: "[", color: "gold"}, {storage: "jk:bm", nbt: "txt.jkbm", interpret: true, color: "gold"}, {text: "] ", color: "gold"}, {storage: "jk:bm", nbt: "txt.tellraw.no_pack.loot", interpret: true, color: "yellow"}]

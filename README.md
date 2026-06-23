@@ -1,12 +1,12 @@
 # BoxMover -- 搬箱器
-## v1.3 for MC1.21.9-26.2.x
+## v1.3 for MC1.21-1.21.8
 - [简体中文](#zh_cn)
 - [English](#en_us)
 
 ## zh_cn
 本数据包是为了方便玩家搬运以下「容器」而设计：
 
-- 箱子、木桶、熔炉、漏斗、发射器、投掷器、合成器、酿造台、展示架、饰纹陶罐。
+- 箱子、木桶、熔炉、漏斗、发射器、投掷器、合成器、酿造台、饰纹陶罐。
 
 ### 注意事项
 1. 获取方式：`铁锭 + 金锭 + 钻石`进行合成。
@@ -19,7 +19,7 @@
 ## en_us
 This datapack is designed to allow players to move the following "containers":
 
-- (Normal | Trapped | Copper) Chest, Barrel, (Normal | Blast | Smoker) Furnace, Hopper, Dispenser, Dropper, Crafter, Brewing Stand, Shelf, Decorated Pot.
+- (Normal | Trapped) Chest, Barrel, (Normal | Blast | Smoker) Furnace, Hopper, Dispenser, Dropper, Crafter, Brewing Stand, Decorated Pot.
 
 ### Tips
 1. How to get: Craft it using `iron ingot + gold ingot + diamond`.

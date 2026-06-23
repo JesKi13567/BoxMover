@@ -24,6 +24,7 @@
               "name": {
                 "storage": "jk:bm",
                 "nbt": "txt.jkbm",
+                "interpret": true,
                 "italic": false,
                 "color": "yellow"
               }
@@ -36,6 +37,7 @@
                 {
                   "storage": "jk:bm",
                   "nbt": "txt.lore.use",
+                  "interpret": true,
                   "italic": false,
                   "color": "gray"
                 }

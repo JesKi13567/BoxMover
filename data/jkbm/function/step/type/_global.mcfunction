@@ -30,7 +30,6 @@ function jkbm:step/2 {n: 26}
 data modify entity @s Item.id set from block ~ ~ ~ id
 data modify entity @s Item.components."minecraft:container" set from storage jk:bm box.x
 
-execute if block ~ ~ ~ #copper_chests run function jkbm:step/type/copper_chests
 execute if block ~ ~ ~ #jkbm:furnace run function jkbm:step/type/furnace
 execute if block ~ ~ ~ brewing_stand run function jkbm:step/type/brewing_stand
 execute if block ~ ~ ~ crafter run function jkbm:step/type/crafter

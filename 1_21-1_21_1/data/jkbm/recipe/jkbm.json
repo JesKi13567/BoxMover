@@ -1,9 +1,15 @@
 {
   "type": "crafting_shapeless",
   "ingredients": [
-    "diamond",
-    "gold_ingot",
-    "iron_ingot"
+    {
+      "item": "diamond"
+    },
+    {
+      "item": "gold_ingot"
+    },
+    {
+      "item": "iron_ingot"
+    }
   ],
   "result": {
     "id": "paper",
